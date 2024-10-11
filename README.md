@@ -6,6 +6,10 @@ Welcome to the **Mastering TS** repository! This repo is a playground where I ex
 
 Nothing as such, codes are scattered randomly, but thats also the fun part.
 
+## Important Links
+
+- [Distributivity in TypeScript](https://jser.dev/typescript/2023/01/22/distributiveness-in-ts/)
+
 ## How to Use
 
 1. Clone the repository:
